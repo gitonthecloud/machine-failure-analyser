@@ -7,3 +7,4 @@ scikit_learn==1.9.1
 seaborn==0.13.2
 tensorflow==2.16.1
 xgboost==3.4.1
+notebook==7.4.4
